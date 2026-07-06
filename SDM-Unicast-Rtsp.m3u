@@ -20,7 +20,7 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221227275/100001000000000600000000056717
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频道",CCTV9
 rtsp://223.99.188.13/PLTV/88888888/224/3221226230/10000100000000060000000002553858_0.smil
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频道",CCTV10
-rtsp://223.99.188.13/PLTV/88888888/224/3221226228/10000100000000060000000002553868_0.smil
+rtsp://223.99.188.13/PLTV/88888888/224/3221227688/382255445.smil
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频道",CCTV11
 rtsp://223.99.188.13/PLTV/88888888/224/3221227240/10000100000000060000000005622087_0.smil
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频道",CCTV12
