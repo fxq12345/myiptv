@@ -371,8 +371,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
 
 #EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/枣庄.png" group-title="市级频道" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",枣庄新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8
-#EXTINF:-1 tvg-name="枣庄经济生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/枣庄.png" group-title="市级频道" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",枣庄经济生活
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
 
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/东营.png" group-title="市级频道" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东营新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
@@ -572,8 +570,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
 
 #EXTINF:-1 tvg-name="东阿综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/聊城东阿.png" group-title="聊城" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东阿综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
-#EXTINF:-1 tvg-name="临清综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/聊城临清.png" group-title="聊城" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001103/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",临清综合
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001103/index.m3u8
 #EXTINF:-1 tvg-name="冠县综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/聊城冠县.png" group-title="聊城" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",冠县综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
 #EXTINF:-1 tvg-name="茌平综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/聊城茌平.png" group-title="聊城" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",茌平综合
